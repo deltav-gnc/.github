@@ -21,4 +21,4 @@ We build embedded software for multirotor UAVs, focusing on real-time object det
 
 | Repository | Technical Description | Status |
 | :--- | :--- | :--- |
-| **[leadership-vault](https://github.com/SuaOrganizacao/leadership-vault)** | Centralized vault for technical leadership resources, theoretical studies, and project materials | ![Active](https://img.shields.io/badge/Active-0d1117?style=flat-square&logoColor=39d353&labelColor=0d1117) |
+| **[leadership-vault](https://github.com/deltav-gnc/leadership-vault.git)** | Centralized vault for technical leadership resources, theoretical studies, and project materials | ![Active](https://img.shields.io/badge/Active-0d1117?style=flat-square&logoColor=39d353&labelColor=0d1117) |
