@@ -13,10 +13,6 @@
 
 ---
 
-## Our Focus
-
-Dedicated to the practical study and development of drone autonomy. This organization centralizes GNC research, projects, and technical leadership documentation.
-
 ## Core Repositories
 
 | Repository | Technical Description | Status |
