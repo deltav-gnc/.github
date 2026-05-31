@@ -1,7 +1,7 @@
-<h1 align="center">DeltaV Autonomous Drones</h1>
+<h1 align="center">Autonomous Systems & Leadership Hub</h1>
 
 <p align="center">
-  <em>Research and development of autonomous navigation systems, computer vision, and robust flight control architectures.</em>
+  <em>A personal engineering workspace dedicated to the study, research, and practical application of Guidance, Navigation, and Control (GNC) systems. This organization serves as a centralized hub for organizing technical leadership, documenting theoretical studies, and developing hands-on projects for autonomous drones.</em>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## Our Focus
 
-We build embedded software for multirotor UAVs, focusing on real-time object detection, hardware-in-the-loop (HITL) and software-in-the-loop (SITL) simulation, and autonomous mission execution.
+Dedicated to the practical study and development of drone autonomy. This organization centralizes GNC research, projects, and technical leadership documentation.
 
 ## Core Repositories
 
